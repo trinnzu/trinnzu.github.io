@@ -948,7 +948,7 @@ footer{
 
     .dubsado{
         height: 200px;
-        width: 250px;
+        width: 350px;
         margin-top: 130px;
         display: block;
         margin-left: auto;
@@ -1004,7 +1004,7 @@ footer{
   background-color:#01122B;
   color:#ECF3E7;
   cursor: pointer;
-  padding: 20px;
+  padding: 10px;
   border-radius: 5px;
 }
 
