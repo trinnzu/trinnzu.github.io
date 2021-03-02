@@ -948,7 +948,7 @@ footer{
 
     .dubsado{
         height: 200px;
-        width: 370px;
+        width: 350px;
         margin-top: 130px;
         display: block;
         margin-left: auto;
@@ -1019,6 +1019,11 @@ footer{
         font-size: 7px;  
         right: 10px;
     }
+  
+  #myBtn:hover {
+  display:none;
+}
+
 }
 
 
