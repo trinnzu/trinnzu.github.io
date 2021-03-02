@@ -1004,7 +1004,7 @@ footer{
   background-color:#01122B;
   color:#ECF3E7;
   cursor: pointer;
-  padding: 10px;
+  padding: 15px;
   border-radius: 5px;
 }
 
@@ -1016,7 +1016,7 @@ footer{
 
 @media screen and (max-width: 800px) {
     #myBtn {
-        font-size: 7px;  
+        font-size: 10px;  
         right: 10px;
     }
   
