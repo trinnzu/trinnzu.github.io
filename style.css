@@ -304,7 +304,7 @@ h3{
 
 @media screen and (max-width: 800px) {
     .what-i-do{
-        height: 4000px;
+        height: 3920px;
     }
 }
 
@@ -746,7 +746,7 @@ hr{
         border-radius: 5px;
         text-align: center;
         padding: 15px 66px;
-        margin-top: -20px;
+        margin-top: 0px;
         font-size: 13px;
         margin-bottom: 40px;
         margin-left: 20px;
