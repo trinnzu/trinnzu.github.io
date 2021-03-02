@@ -1009,8 +1009,7 @@ footer{
 }
 
 #myBtn:hover {
-  background-color:#ECF3E7;
-  color: #01122B;
+  display:none;
 }
 
 
